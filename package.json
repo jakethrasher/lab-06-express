@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/jakethrasher/lab-06-express/issues"
   },
-  "homepage": "https://github.com/jakethrasher/lab-06-express#readme"
+  "homepage": "https://github.com/jakethrasher/lab-06-express#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "supertest": "^6.1.3"
+  }
 }
