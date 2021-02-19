@@ -11,7 +11,7 @@ const records = [
     },
     {
         id: 3,
-        artist: 'https://img.discogs.com/raoMYMCq9vFdZzurWnmOLvovuxQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-20174-1479150151-4220.jpeg.jpg',
+        artist: 'https://img.discogs.com/Ll-0DyPd2yIS6mdg0vfX64bQKws=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3819085-1396528420-7740.png.jpg',
         album: 'Deep Inside -Ep',
         image: 'hardrive.png',
         condition:'Very Good',
