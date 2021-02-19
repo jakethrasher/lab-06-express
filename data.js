@@ -10,18 +10,8 @@ const records = [
 
     },
     {
-        id: 2,
-        artist: 'Goldi',
-        album: 'Timeless',
-        image: 'goldi.png',
-        condition:'Good',
-        genre: '90\'s electronic',
-        price: 25
-
-    },
-    {
         id: 3,
-        artist: 'https://www.discogs.com/Hardrive-The-Hardrive-EP/release/3682544/image/SW1hZ2U6NzA1NzcwNg==',
+        artist: 'https://img.discogs.com/raoMYMCq9vFdZzurWnmOLvovuxQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-20174-1479150151-4220.jpeg.jpg',
         album: 'Deep Inside -Ep',
         image: 'hardrive.png',
         condition:'Very Good',
