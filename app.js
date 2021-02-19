@@ -13,6 +13,9 @@ app.get('/records', (req, res) => {
     res.json({ results: records });
 
 });
+
+
+
 app.get('/records/:id', (req, res) => {
 
     // const id = Number(req.params.id);
@@ -22,7 +25,7 @@ app.get('/records/:id', (req, res) => {
 
 });
 
-module.exports ={
+module.exports = {
     app
 };
 
