@@ -26,7 +26,7 @@ it('should get the selected record', async done => {
             id: 1,
             artist: '4hero',
             album: 'Parallel Universe',
-            image: '4hero.png',
+            image: 'https://img.discogs.com/vxFq6LdcKwQGKafp2ody9lxP7H4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-165598-1539913995-2404.jpeg.jpg',
             condition: 'Near Mint',
             genre: "90's electronic",
             price: 25
@@ -34,4 +34,4 @@ it('should get the selected record', async done => {
     });
     done();
 });
-
+       
